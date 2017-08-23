@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50d5e88e-c418-44c3-a093-6dd5c1986401" name="Default" comment="Add validate in todoiTEM">
+    <list default="true" id="50d5e88e-c418-44c3-a093-6dd5c1986401" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/bundle.js" afterPath="$PROJECT_DIR$/dist/bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/bundle.js.map" afterPath="$PROJECT_DIR$/dist/bundle.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/APP.vue" afterPath="$PROJECT_DIR$/src/APP.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Menu.vue" afterPath="$PROJECT_DIR$/src/components/Menu.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TodoItem.vue" afterPath="$PROJECT_DIR$/src/components/TodoItem.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,18 +28,47 @@
             <state relative-caret-position="660">
               <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
               <folding>
-                <element signature="e#905#952#0" expanded="true" />
+                <marker date="1503450176000" expanded="true" signature="744:804" ph="..." />
+                <marker date="1503450176000" expanded="true" signature="971:3177" ph="..." />
+                <marker date="1503450176000" expanded="true" signature="984:1281" ph="..." />
+                <marker date="1503450176000" expanded="true" signature="1302:3168" ph="{&quot;name&quot;: 'app'...}" />
+                <marker date="1503450176000" expanded="true" signature="1340:1538" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="1361:1528" ph="{&quot;filter&quot;: 'all'...}" />
+                <marker date="1503450176000" expanded="true" signature="1555:1668" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="1576:1658" ph="{&quot;handler&quot;: Storage.store...}" />
+                <marker date="1503450176000" expanded="true" signature="1688:2288" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="1963:2278" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="2009:2071" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="2117:2263" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="2171:2244" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="2307:3037" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="2338:2678" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="2370:2417" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="2475:2663" ph="{&quot;value&quot;: newTodo...}" />
+                <marker date="1503450176000" expanded="true" signature="2713:2768" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="2801:2896" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="2929:3027" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="3061:3162" ph="{&quot;TodoInput&quot;: TodoInput...}" />
+                <marker date="1503450176000" expanded="true" signature="3198:3575" ph="..." />
+                <marker date="1503450176000" expanded="true" signature="3211:3567" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="3262:3424" ph="{...}" />
+                <marker date="1503450176000" expanded="true" signature="3444:3560" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1503450352000" expanded="true" signature="63842:63884" ph="..." />
+                <marker date="1503450352000" expanded="true" signature="63842:63902" ph="..." />
+                <marker date="1503450352000" expanded="true" signature="63842:63915" ph="..." />
+                <marker date="1503450352000" expanded="true" signature="63842:63930" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,24 +78,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="78" lean-forward="false" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
-              <folding>
-                <marker date="1503450065000" expanded="true" signature="0:1243" ph="{&quot;name&quot;: &quot;todomvc_vue2.x&quot;...}" />
-                <marker date="1503450065000" expanded="true" signature="108:338" ph="{&quot;dev&quot;: &quot;cross-env NODE_ENV=development webpack-dev-server --open --inline --hot&quot;...}" />
-                <marker date="1503450065000" expanded="true" signature="356:447" ph="{&quot;type&quot;: &quot;git&quot;...}" />
-                <marker date="1503450065000" expanded="true" signature="463:493" ph="[...]" />
-                <marker date="1503450065000" expanded="true" signature="552:623" ph="{&quot;url&quot;: &quot;https://github.com/Eamonnzhang/TodoMVC-vue2.x/issues&quot;...}" />
-                <marker date="1503450065000" expanded="true" signature="713:802" ph="{&quot;element-ui&quot;: &quot;^1.2.9&quot;...}" />
-                <marker date="1503450065000" expanded="true" signature="825:1241" ph="{&quot;babel-core&quot;: &quot;^6.0.0&quot;...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -112,29 +139,11 @@
         <entry file="file://$PROJECT_DIR$/src/components/Menu.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#el-input#0;n#el-menu-item#0;n#el-menu#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <marker date="1503450065000" expanded="true" signature="792:822" ph="..." />
-                <marker date="1503450065000" expanded="true" signature="823:879" ph="..." />
-                <marker date="1503450065000" expanded="true" signature="991:1121" ph="..." />
-                <marker date="1503450065000" expanded="true" signature="1183:1483" ph="..." />
-                <marker date="1503450065000" expanded="true" signature="1536:3438" ph="..." />
-                <marker date="1503450065000" expanded="true" signature="1602:3429" ph="{&quot;name&quot;: 'todo-input'...}" />
-                <marker date="1503450065000" expanded="true" signature="1674:1754" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="1695:1743" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="1774:3421" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="1806:2014" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="1897:2000" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="2042:2858" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="2470:2781" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="2518:2763" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="2907:3304" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="3011:3288" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="3097:3268" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="3339:3411" ph="{...}" />
-                <marker date="1503450065000" expanded="true" signature="3459:3572" ph="..." />
-                <marker date="1503450065000" expanded="true" signature="3514:3564" ph="{...}" />
+                <element signature="n#style#0;n#i#0;n#span#0;n#el-menu-item#0;n#el-menu#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <marker date="1503450176000" expanded="true" signature="3539:3589" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -201,6 +210,7 @@
         <option value="$PROJECT_DIR$/src/components/MenuItem.vue" />
         <option value="$PROJECT_DIR$/src/components/Menu.vue" />
         <option value="$PROJECT_DIR$/src/APP.vue" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -223,6 +233,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="977" />
@@ -395,11 +406,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503450015820</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update">
+      <created>1503450167683</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1503450167683</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68414000" />
+    <option name="totallyTimeSpent" value="68625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -412,18 +430,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="977" extended-state="0" />
+    <frame x="1" y="23" width="1920" height="977" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -475,14 +494,14 @@
     <MESSAGE value="Fix focus in side menu" />
     <MESSAGE value="Add Feature for multi table" />
     <MESSAGE value="Add delete feature in menu" />
-    <MESSAGE value="Update" />
     <MESSAGE value="TEST" />
     <MESSAGE value="Fix bug when using id as ref in menu" />
     <MESSAGE value="Add Edit function in Todoitem" />
     <MESSAGE value="Add feature in filter" />
     <MESSAGE value="Add validate in todoiTEM" />
     <MESSAGE value="Add validate in menu item" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add validate in menu item" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -548,7 +567,31 @@
         <state relative-caret-position="285">
           <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
           <folding>
-            <element signature="e#905#952#0" expanded="true" />
+            <marker date="1503450176000" expanded="true" signature="744:804" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="971:3177" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="984:1281" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="1302:3168" ph="{&quot;name&quot;: 'app'...}" />
+            <marker date="1503450176000" expanded="true" signature="1340:1538" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1361:1528" ph="{&quot;filter&quot;: 'all'...}" />
+            <marker date="1503450176000" expanded="true" signature="1555:1668" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1576:1658" ph="{&quot;handler&quot;: Storage.store...}" />
+            <marker date="1503450176000" expanded="true" signature="1688:2288" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1963:2278" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2009:2071" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2117:2263" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2171:2244" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2307:3037" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2338:2678" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2370:2417" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2475:2663" ph="{&quot;value&quot;: newTodo...}" />
+            <marker date="1503450176000" expanded="true" signature="2713:2768" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2801:2896" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2929:3027" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3061:3162" ph="{&quot;TodoInput&quot;: TodoInput...}" />
+            <marker date="1503450176000" expanded="true" signature="3198:3575" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="3211:3567" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3262:3424" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3444:3560" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -604,15 +647,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <marker date="1503450065000" expanded="true" signature="0:1243" ph="{&quot;name&quot;: &quot;todomvc_vue2.x&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="108:338" ph="{&quot;dev&quot;: &quot;cross-env NODE_ENV=development webpack-dev-server --open --inline --hot&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="356:447" ph="{&quot;type&quot;: &quot;git&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="463:493" ph="[...]" />
-            <marker date="1503450065000" expanded="true" signature="552:623" ph="{&quot;url&quot;: &quot;https://github.com/Eamonnzhang/TodoMVC-vue2.x/issues&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="713:802" ph="{&quot;element-ui&quot;: &quot;^1.2.9&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="825:1241" ph="{&quot;babel-core&quot;: &quot;^6.0.0&quot;...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -645,7 +680,31 @@
         <state relative-caret-position="1095">
           <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
           <folding>
-            <element signature="e#905#952#0" expanded="true" />
+            <marker date="1503450176000" expanded="true" signature="744:804" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="971:3177" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="984:1281" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="1302:3168" ph="{&quot;name&quot;: 'app'...}" />
+            <marker date="1503450176000" expanded="true" signature="1340:1538" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1361:1528" ph="{&quot;filter&quot;: 'all'...}" />
+            <marker date="1503450176000" expanded="true" signature="1555:1668" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1576:1658" ph="{&quot;handler&quot;: Storage.store...}" />
+            <marker date="1503450176000" expanded="true" signature="1688:2288" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1963:2278" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2009:2071" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2117:2263" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2171:2244" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2307:3037" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2338:2678" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2370:2417" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2475:2663" ph="{&quot;value&quot;: newTodo...}" />
+            <marker date="1503450176000" expanded="true" signature="2713:2768" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2801:2896" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2929:3027" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3061:3162" ph="{&quot;TodoInput&quot;: TodoInput...}" />
+            <marker date="1503450176000" expanded="true" signature="3198:3575" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="3211:3567" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3262:3424" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3444:3560" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -679,7 +738,31 @@
         <state relative-caret-position="630">
           <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
           <folding>
-            <element signature="e#905#952#0" expanded="true" />
+            <marker date="1503450176000" expanded="true" signature="744:804" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="971:3177" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="984:1281" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="1302:3168" ph="{&quot;name&quot;: 'app'...}" />
+            <marker date="1503450176000" expanded="true" signature="1340:1538" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1361:1528" ph="{&quot;filter&quot;: 'all'...}" />
+            <marker date="1503450176000" expanded="true" signature="1555:1668" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1576:1658" ph="{&quot;handler&quot;: Storage.store...}" />
+            <marker date="1503450176000" expanded="true" signature="1688:2288" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1963:2278" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2009:2071" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2117:2263" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2171:2244" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2307:3037" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2338:2678" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2370:2417" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2475:2663" ph="{&quot;value&quot;: newTodo...}" />
+            <marker date="1503450176000" expanded="true" signature="2713:2768" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2801:2896" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2929:3027" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3061:3162" ph="{&quot;TodoInput&quot;: TodoInput...}" />
+            <marker date="1503450176000" expanded="true" signature="3198:3575" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="3211:3567" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3262:3424" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3444:3560" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -737,15 +820,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <marker date="1503450065000" expanded="true" signature="0:1243" ph="{&quot;name&quot;: &quot;todomvc_vue2.x&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="108:338" ph="{&quot;dev&quot;: &quot;cross-env NODE_ENV=development webpack-dev-server --open --inline --hot&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="356:447" ph="{&quot;type&quot;: &quot;git&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="463:493" ph="[...]" />
-            <marker date="1503450065000" expanded="true" signature="552:623" ph="{&quot;url&quot;: &quot;https://github.com/Eamonnzhang/TodoMVC-vue2.x/issues&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="713:802" ph="{&quot;element-ui&quot;: &quot;^1.2.9&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="825:1241" ph="{&quot;babel-core&quot;: &quot;^6.0.0&quot;...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -789,22 +864,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="78" lean-forward="false" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
-          <folding>
-            <marker date="1503450065000" expanded="true" signature="0:1243" ph="{&quot;name&quot;: &quot;todomvc_vue2.x&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="108:338" ph="{&quot;dev&quot;: &quot;cross-env NODE_ENV=development webpack-dev-server --open --inline --hot&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="356:447" ph="{&quot;type&quot;: &quot;git&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="463:493" ph="[...]" />
-            <marker date="1503450065000" expanded="true" signature="552:623" ph="{&quot;url&quot;: &quot;https://github.com/Eamonnzhang/TodoMVC-vue2.x/issues&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="713:802" ph="{&quot;element-ui&quot;: &quot;^1.2.9&quot;...}" />
-            <marker date="1503450065000" expanded="true" signature="825:1241" ph="{&quot;babel-core&quot;: &quot;^6.0.0&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-56">
@@ -824,14 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -897,29 +948,11 @@
     <entry file="file://$PROJECT_DIR$/src/components/Menu.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#el-input#0;n#el-menu-item#0;n#el-menu#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <marker date="1503450065000" expanded="true" signature="792:822" ph="..." />
-            <marker date="1503450065000" expanded="true" signature="823:879" ph="..." />
-            <marker date="1503450065000" expanded="true" signature="991:1121" ph="..." />
-            <marker date="1503450065000" expanded="true" signature="1183:1483" ph="..." />
-            <marker date="1503450065000" expanded="true" signature="1536:3438" ph="..." />
-            <marker date="1503450065000" expanded="true" signature="1602:3429" ph="{&quot;name&quot;: 'todo-input'...}" />
-            <marker date="1503450065000" expanded="true" signature="1674:1754" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="1695:1743" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="1774:3421" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="1806:2014" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="1897:2000" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="2042:2858" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="2470:2781" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="2518:2763" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="2907:3304" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="3011:3288" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="3097:3268" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="3339:3411" ph="{...}" />
-            <marker date="1503450065000" expanded="true" signature="3459:3572" ph="..." />
-            <marker date="1503450065000" expanded="true" signature="3514:3564" ph="{...}" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#el-menu-item#0;n#el-menu#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <marker date="1503450176000" expanded="true" signature="3539:3589" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -929,7 +962,31 @@
         <state relative-caret-position="660">
           <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
           <folding>
-            <element signature="e#905#952#0" expanded="true" />
+            <marker date="1503450176000" expanded="true" signature="744:804" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="971:3177" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="984:1281" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="1302:3168" ph="{&quot;name&quot;: 'app'...}" />
+            <marker date="1503450176000" expanded="true" signature="1340:1538" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1361:1528" ph="{&quot;filter&quot;: 'all'...}" />
+            <marker date="1503450176000" expanded="true" signature="1555:1668" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1576:1658" ph="{&quot;handler&quot;: Storage.store...}" />
+            <marker date="1503450176000" expanded="true" signature="1688:2288" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="1963:2278" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2009:2071" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2117:2263" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2171:2244" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2307:3037" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2338:2678" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2370:2417" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2475:2663" ph="{&quot;value&quot;: newTodo...}" />
+            <marker date="1503450176000" expanded="true" signature="2713:2768" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2801:2896" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="2929:3027" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3061:3162" ph="{&quot;TodoInput&quot;: TodoInput...}" />
+            <marker date="1503450176000" expanded="true" signature="3198:3575" ph="..." />
+            <marker date="1503450176000" expanded="true" signature="3211:3567" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3262:3424" ph="{...}" />
+            <marker date="1503450176000" expanded="true" signature="3444:3560" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -938,6 +995,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1503450352000" expanded="true" signature="63842:63884" ph="..." />
+            <marker date="1503450352000" expanded="true" signature="63842:63902" ph="..." />
+            <marker date="1503450352000" expanded="true" signature="63842:63915" ph="..." />
+            <marker date="1503450352000" expanded="true" signature="63842:63930" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="78" lean-forward="false" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
         </state>
       </provider>

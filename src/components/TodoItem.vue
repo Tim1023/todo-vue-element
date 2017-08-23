@@ -2,15 +2,20 @@
     <li :class="{complete:todo.completed}">
         <el-checkbox v-model="todo.completed"></el-checkbox>
         <span v-show="todo.editable == false" @click="handleClick(todo)">{{todo.value}}</span>
-        <el-form :model="todo" :rules="rules" @submit.native.prevent ref="ruleForm" class="demo-ruleForm">
 
-            <el-input v-show="todo.editable" :autofocus="todo.editable" style="width: 80%; "
-                      :ref="todo.id.toString()" v-model="todo.value" @blur="submitForm('todo')"
-                      @keyup.enter.native="submitForm('todo')"
-            ></el-input>
+        <el-form :model="todo" :rules="rules" @submit.native.prevent ref="todo" class="demo-ruleForm"
+                 style="display: inline-block">
+            <el-form-item prop="value">
+
+                <el-input v-show="todo.editable" :autofocus="todo.editable" style="width: 80%; "
+                          :ref="todo.id.toString()" v-model="todo.value" @blur="submitForm('todo')"
+                          @keyup.enter.native="submitForm('todo')"
+                ></el-input>
+            </el-form-item>
+
         </el-form>
-
         <i class="el-icon-close" @click="removeTodo(index)"></i>
+
     </li>
 </template>
 <script>
@@ -20,9 +25,9 @@
         data() {
             return {
                 rules: {
-                    todoItem: [
-                        {required: true, message: 'Please type your todo', trigger: 'submit'},
-                        {min: 3,  message: 'Length at least 3 characters', trigger: 'blur'}
+                    value: [
+                        {required: true, message: 'Please type your todo', trigger: 'blur'},
+                        {min: 3, message: 'Length at least 3 characters', trigger: 'blur'}
                     ]
                 }
             }
@@ -42,8 +47,7 @@
                 this.$refs[formName].validate((valid) => {
                     if (valid) {
                         console.log("123")
-                        console.log(this )
-//                        this.todo.editable=false
+                        this.todo.editable = false
                     } else {
                         console.log('error submit!!');
                         return false;
@@ -73,8 +77,7 @@
             span {
                 text-decoration:line-through;
                 color:#ddd;
-        }
-    }
+    } }
         li {
             padding-bottom: 10px;
             border-bottom: 1px solid #eee;
