@@ -9,9 +9,9 @@
                           :ref="table.id.toString()" v-model="table.title" @blur="table.editable=false"
                           @keyup.enter.native="table.editable=false"
                 ></el-input>
-                <span slot="title" v-show="!table.editable">
+                <span slot="title" v-show="!table.editable" >
 
-                    {{table.title}}
+                    {{!!table.title? table.title:"❗️❗️❗️"}}
                     <i v-show="!isCollapse" class="el-icon-close" style="float: right; padding-top: 13%"
                        @click="handleDelete(index)"></i>
                 </span>

@@ -9,7 +9,7 @@
                 <el-card class="box-card">
                     <div slot="header" class="clearfix">
                         <div class="h1">
-                            {{!!todos[currentTable] ? todos[currentTable].title : "Please add new TODO table"}}
+                            {{!!todos[currentTable] ? !!todos[currentTable].title?todos[currentTable].title:" ⬅️ ⬅️ ⬅️PLease type your table name❗️❗️❗" : "Please add new TODO table"}}
                         </div>
                         <todo-input v-if="!!todos[currentTable]"></todo-input>
                     </div>
